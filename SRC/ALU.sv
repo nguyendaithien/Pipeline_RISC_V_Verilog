@@ -1,18 +1,5 @@
 //---------------------------------------------------------------
 //                        RISC-V Core
-//                          Ver 1.0
-//                     EDABK  Laboratory
-//                      Copyright  2021
-//---------------------------------------------------------------
-//    Copyright © 2021 by EDABK Laboratory
-//    All rights reserved.
-//
-//    Module  : Execute
-//    Project : RISC-V pipeline
-//    Author  : Pham Ngoc Lam, Nguyen Van Chien, Duong Van Bien
-//    Company : EDABK Laboratory
-//    Date    : July 23rd 2021
-//----------------------------------------------------------------
 module execute (
   input               clk               ,    // Clock
   input               reset_n           ,  // Asynchronous reset active low
